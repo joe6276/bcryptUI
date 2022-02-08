@@ -12,8 +12,8 @@ export default class Createagent extends Component {
             <input type="text" placeholder='Enter Name....'/>
             <input type="text" placeholder='Enter Agent Number....'/>
             <input type="text" placeholder='Owner Phone Number....'/>
-          
-
+            <input type="text" placeholder='Owner ID....'/>
+            <input type="text" placeholder='Location....'/>
 
             <Link className='form_link' to ="/adminsuccess">Add Agent</Link>
             </div>
